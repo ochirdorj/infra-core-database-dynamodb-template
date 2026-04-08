@@ -35,7 +35,7 @@ variable "kms_deletion_window" {
   default     = 7
 }
 
-# TAGS
+# TAGSi
 
 variable "tag_Environment" {
   type        = string
